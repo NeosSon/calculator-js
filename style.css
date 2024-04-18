@@ -1,0 +1,22 @@
+.calculator-container {
+    display: flex;
+    flex-direction: column;
+    background-color: orange;
+}
+
+.screen {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    height: 100px;
+    /* width: 200px; */
+    background-color: beige;
+}
+
+.buttons {
+
+}
+
+button {
+    width: 24%;
+}
